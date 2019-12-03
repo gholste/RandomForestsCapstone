@@ -1,3 +1,9 @@
+## Script to produce plots using toy data presented in "Random Forests for Supervised Classification." ##
+##                                                                                                     ##
+## Author: Greg Holste                                                                                 ##
+## Last Modified: 12/2/19                                                                              ##
+#########################################################################################################
+
 library(ggplot2)
 library(ggforce)
 library(latex2exp)

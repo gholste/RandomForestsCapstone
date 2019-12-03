@@ -1,3 +1,11 @@
+## Script used to produce results and figures from "Random Forests for Supervised Classification."   ##
+## Trains a single-rule classifier, decision tree, bagged classifier, random forest, and Extra-Trees ##
+## classifier to predict spam based on text features (https://bit.ly/2Lw24yz), and analyzes results. ##
+##                                                                                                   ##
+## Author: Greg Holste                                                                               ##
+## Last Modified: 12/2/19                                                                            ##
+#######################################################################################################
+
 import pandas as pd
 import numpy as np
 import time
