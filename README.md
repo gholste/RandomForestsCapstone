@@ -1,7 +1,7 @@
 # RandomForestsCapstone
 ### Greg Holste
 
-<img src="bagging.pdf">
+<img src="rf.png" width=850>
 
 Code for my undergraduate Capstone paper, "Random Forests for Supervised Classification." This paper is part of the senior capstone project for my Mathematics major at Kenyon College. For context, this is not a research paper, nor an exhaustive overview of random forests; instead, it's meant to be a thorough introduction to a topic beyond our coursework that is approachable to our peers (other math majors at Kenyon).
 
